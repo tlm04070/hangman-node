@@ -1,4 +1,4 @@
-let Letter = function (letters) {
+let Letter = function (input) {
 
 };
 
